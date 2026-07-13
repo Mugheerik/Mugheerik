@@ -1,81 +1,145 @@
+<div align="center">
+
 # 👋 Hi, I'm Mugheer Islam Khattak
 
-**Data Analyst | Business Intelligence Analyst | SQL & Power BI | Analytics Engineering Focus**
+### Analytics Engineer • Backend & Data Engineering • Building Modern Data Platforms
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Building production-oriented software that combines backend engineering, analytics, and intelligent systems to solve real-world problems.
 
+<p>
 
----
+<a href="https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📊 About Me
+<a href="https://github.com/Mugheerik/customer360-platform">
+<img src="https://img.shields.io/badge/Customer360-Flagship_Project-2563EB?style=for-the-badge"/>
+</a>
 
-I’m a Software Engineering graduate with a strong foundation in **data analytics, business intelligence, and system-level thinking**.
+</p>
 
-I work across the data lifecycle — from **data cleaning and transformation to modeling and visualization**, building solutions that support **data-driven decision making**.
-
-With a background in software engineering and DevOps fundamentals, I approach data problems with a focus on **structure, scalability, and efficiency**.
-
----
-
-## 🧠 Core Competencies
-
-* Data Analysis & Exploratory Data Analysis (EDA)
-* Business Intelligence & KPI Development
-* Dashboard Design & Data Storytelling
-* SQL Querying (Joins, CTEs, Window Functions, Aggregations)
-* Data Cleaning, Validation & Transformation
-* Data Modeling (Fact/Dimension Tables, Star Schema)
-* ETL / ELT Concepts
-* Translating Business Problems into Data Solutions
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
+# 💻 Tech Stack
 
-| Category           | Tools                  |
-| ------------------ | ---------------------- |
-| BI & Visualization | Power BI, DAX          |
-| Databases          | SQL, PostgreSQL, MySQL |
-| Programming        | Python (Pandas)        |
-| Analytics          | Excel                  |
-| Tools              | Git, GitHub            |
-
----
-
-## 📂 Portfolio Highlights
-
-* End-to-end Power BI dashboards with business-focused KPIs
-* SQL-driven data transformation and analytical workflows
-* Python-based data cleaning and preprocessing
-* Projects structured with data modeling and analytical layers
-
-➡️ Explore my repositories to see real-world datasets and analytics workflows.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-## 🚀 Current Focus
+# 🚀 About Me
 
-* Advanced SQL for analytics and reporting
-* Data modeling for scalable analytics systems
-* Building structured analytics projects (Healthcare, SaaS, E-commerce)
-* Expanding into data engineering concepts (data pipelines, transformations)
+I'm a **Software Engineering graduate** focused on designing and building modern data platforms that combine **backend engineering**, **analytics engineering**, and **business intelligence**.
 
----
+My work spans backend APIs, database design, analytics engineering, data modeling, and interactive dashboards. I enjoy building scalable systems that transform raw data into reliable business insights while following production-oriented engineering practices.
 
-## 🤝 Let’s Connect
-
-Open to opportunities in **Data Analytics, Business Intelligence, and Analytics Engineering**
-
-📌 Open to Remote / On-site / Hybrid roles
+I'm currently developing **Customer360**, a long-term engineering platform that demonstrates modern backend architecture, analytics engineering, automation, and AI-ready design.
 
 ---
 
-## 📌 Approach
+# 🎯 Current Focus
 
-> Understand the data → structure it properly → deliver insights that drive decisions
+* 🚀 Building **Customer360 Platform**
+* ⚙️ Backend Engineering (FastAPI & PostgreSQL)
+* 📊 Analytics Engineering (dbt & Power BI)
+* 🗄️ Data Engineering Foundations
+* 🐳 Docker & Production Software Practices
+* ☁️ Expanding into Cloud & Platform Engineering
 
 ---
+
+# ⭐ Flagship Project
+
+## Customer360 Platform
+
+A production-oriented customer data platform showcasing modern software engineering and analytics engineering practices.
+
+### Current Highlights
+
+* FastAPI REST API
+* PostgreSQL & SQLAlchemy 2.0
+* Alembic Database Migrations
+* Modular Feature-Based Architecture
+* Docker Development Environment
+* Customer CRUD API
+* Automated Testing (Pytest)
+* Ruff Linting & Formatting
+* GitHub Actions CI
+* Professional Documentation
+* Versioned Releases
+
+**Repository:**
+➡️ https://github.com/Mugheerik/customer360-platform
+
+---
+
+# 📂 Featured Projects
+
+### 🚀 Customer360 Platform
+
+Production-oriented backend and analytics platform demonstrating modern engineering practices.
+
+### 🏥 Healthcare Analytics Dashboard
+
+End-to-end analytics solution using Python, PostgreSQL, dbt, and Power BI for business performance monitoring.
+
+### 📈 Stock Market Analytics Pipeline
+
+Analytics pipeline for transforming and visualizing stock market data using Python, dbt, PostgreSQL, and Power BI.
+
+### 📰 NewsBroadcast (Final Year Project)
+
+Cross-platform mobile application built with React Native, Expo, and Firebase featuring authentication, multimedia support, and AI-assisted news summarization.
+
+### 🏙️ Civic AI Data Platform
+
+Experimental platform exploring backend engineering, event-driven architecture, and intelligent analytics systems.
+
+---
+
+
+# 💡 Engineering Philosophy
+
+* Build systems that solve real-world problems.
+* Design software that is maintainable, scalable, and reliable.
+* Let architecture evolve from business requirements—not trends.
+* Use data to support informed decision-making.
+* Adopt technologies because they solve real engineering problems.
+* Treat testing, documentation, automation, and version control as first-class engineering practices.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in opportunities involving:
+
+* Analytics Engineering
+* Backend Engineering
+* Data Engineering
+* Business Intelligence
+* Modern Data Platforms
+* Open Source Collaboration
+
+📍 **Pakistan**
+
+🌍 **Open to Remote, Hybrid, Freelance, and Full-time opportunities**
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/
+
+---
+
+<div align="center">
+
+### ⭐ Building production-oriented software and modern data platforms—one release at a time.
+
+</div>
