@@ -57,6 +57,16 @@ My long-term goal is to become an **Intelligent Software Systems Architect**, de
 Clean Architecture • Repository Pattern • Service Layer • REST APIs • Database Design
 
 ---
+# 🎯 Engineering Interests
+
+- Backend Architecture
+- Data Platforms
+- Analytics Engineering
+- Platform Engineering
+- Distributed Systems
+- Cloud-native Software
+- Intelligent Systems
+
 
 ## Analytics Engineering & Data Platforms
 
