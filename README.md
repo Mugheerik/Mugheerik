@@ -2,58 +2,106 @@
 
 # 👋 Hi, I'm Mugheer Islam Khattak
 
-### Analytics Engineer • Backend & Data Engineering • Building Modern Data Platforms
+### Software Engineer • Analytics Engineering • Data Platforms • Intelligent Systems
 
-Building production-oriented software that combines backend engineering, analytics, and intelligent systems to solve real-world problems.
+Building production-oriented software that combines backend engineering, analytics, automation, and intelligent systems to solve real-world problems.
 
-<p>
+<br>
 
 <a href="https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mugheerik/customer360-platform">
 <img src="https://img.shields.io/badge/Customer360-Flagship_Project-2563EB?style=for-the-badge"/>
 </a>
 
-</p>
-
 </div>
-
----
-
-# 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 # 🚀 About Me
 
-I'm a **Software Engineering graduate** focused on designing and building modern data platforms that combine **backend engineering**, **analytics engineering**, and **business intelligence**.
+I'm a **Software Engineer** focused on designing and building modern software systems that combine:
 
-My work spans backend APIs, database design, analytics engineering, data modeling, and interactive dashboards. I enjoy building scalable systems that transform raw data into reliable business insights while following production-oriented engineering practices.
+- Backend Engineering
+- Analytics Engineering
+- Data Platforms
+- Automation
+- Intelligent Software Systems
 
-I'm currently developing **Customer360**, a long-term engineering platform that demonstrates modern backend architecture, analytics engineering, automation, and AI-ready design.
+My work sits at the intersection of software engineering and data engineering — building reliable systems that transform raw information into structured intelligence.
+
+Currently building **Customer360**, a production-oriented Customer Data Platform designed as an engineering laboratory for exploring:
+
+- Clean Architecture
+- Modular Backend Systems
+- Data Engineering
+- Analytics Engineering
+- Automation
+- AI-ready Software Design
+
+My long-term goal is to become an **Intelligent Software Systems Architect**, designing platforms where software, data, automation, and AI work together.
 
 ---
 
-# 🎯 Current Focus
+# 🛠️ Technology Stack
 
-* 🚀 Building **Customer360 Platform**
-* ⚙️ Backend Engineering (FastAPI & PostgreSQL)
-* 📊 Analytics Engineering (dbt & Power BI)
-* 🗄️ Data Engineering Foundations
-* 🐳 Docker & Production Software Practices
-* ☁️ Expanding into Cloud & Platform Engineering
+## Backend & Software Architecture
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Clean Architecture • Repository Pattern • Service Layer • REST APIs • Database Design
+
+---
+
+## Analytics Engineering & Data Platforms
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+Data Modeling • ETL/ELT • Data Transformation • KPI Development • Business Intelligence
+
+---
+
+## Engineering & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+Pytest • Ruff • CI/CD • Documentation • Version Control
+
+---
+
+# 🔭 Currently Building & Learning
+
+### 🚀 Customer360 Platform
+
+Building a production-oriented Customer Data Platform focused on:
+
+- Modular backend architecture
+- Scalable API design
+- Data-driven business systems
+- Analytics integration
+- Future automation and AI capabilities
+
+
+### 📚 Expanding Knowledge
+
+Currently exploring:
+
+- Software Architecture
+- System Design
+- Cloud-native Engineering
+- Go Programming
+- Distributed Systems
+- Event-driven Architecture
+- AI-enabled Software Systems
 
 ---
 
@@ -61,85 +109,141 @@ I'm currently developing **Customer360**, a long-term engineering platform that 
 
 ## Customer360 Platform
 
-A production-oriented customer data platform showcasing modern software engineering and analytics engineering practices.
+A production-oriented Customer Data Platform built to demonstrate modern software engineering practices.
 
-### Current Highlights
+### Current Architecture
 
-* FastAPI REST API
-* PostgreSQL & SQLAlchemy 2.0
-* Alembic Database Migrations
-* Modular Feature-Based Architecture
-* Docker Development Environment
-* Customer CRUD API
-* Automated Testing (Pytest)
-* Ruff Linting & Formatting
-* GitHub Actions CI
-* Professional Documentation
-* Versioned Releases
+- FastAPI Backend
+- PostgreSQL Database
+- SQLAlchemy ORM
+- Alembic Migrations
+- Docker Development Environment
+- Modular Feature-based Architecture
+- Authentication & Authorization
+- Automated Testing
+- GitHub Actions CI/CD
+- Ruff Code Quality Checks
 
-**Repository:**
+### Engineering Practices
+
+- Clean Architecture
+- Repository Pattern
+- Service Layer Design
+- Dependency Injection
+- Database Version Control
+- Automated Quality Gates
+- Documentation-driven Development
+
+Customer360 is designed as a foundation that will evolve toward:
+
+- Workflow Automation
+- Event-driven Systems
+- Analytics Services
+- AI-enabled Business Intelligence
+
+Repository:
+
 ➡️ https://github.com/Mugheerik/customer360-platform
 
 ---
 
 # 📂 Featured Projects
 
-### 🚀 Customer360 Platform
+## 🏥 Healthcare Analytics Dashboard
 
-Production-oriented backend and analytics platform demonstrating modern engineering practices.
+End-to-end analytics solution using:
 
-### 🏥 Healthcare Analytics Dashboard
+- Python
+- PostgreSQL
+- dbt
+- Power BI
 
-End-to-end analytics solution using Python, PostgreSQL, dbt, and Power BI for business performance monitoring.
+Focused on data transformation, KPI development, and business intelligence reporting.
 
-### 📈 Stock Market Analytics Pipeline
-
-Analytics pipeline for transforming and visualizing stock market data using Python, dbt, PostgreSQL, and Power BI.
-
-### 📰 NewsBroadcast (Final Year Project)
-
-Cross-platform mobile application built with React Native, Expo, and Firebase featuring authentication, multimedia support, and AI-assisted news summarization.
-
-### 🏙️ Civic AI Data Platform
-
-Experimental platform exploring backend engineering, event-driven architecture, and intelligent analytics systems.
 
 ---
 
+## 📈 Stock Market Analytics Pipeline
+
+Analytics engineering pipeline implementing:
+
+- Data Extraction
+- Data Transformation
+- PostgreSQL Modeling
+- Dashboard Visualization
+
+Built using Python, dbt, PostgreSQL, and Power BI.
+
+
+---
+
+## 📊 SaaS Funnel & Revenue Analytics
+
+Business analytics project focused on:
+
+- Customer lifecycle analysis
+- Funnel performance
+- Revenue insights
+- Analytical modeling
+
+
+---
+
+## 🏙️ Civic AI Data Platform
+
+Experimental platform exploring:
+
+- Backend systems
+- Event-driven architecture
+- Intelligent analytics workflows
+
+
+---
 
 # 💡 Engineering Philosophy
 
-* Build systems that solve real-world problems.
-* Design software that is maintainable, scalable, and reliable.
-* Let architecture evolve from business requirements—not trends.
-* Use data to support informed decision-making.
-* Adopt technologies because they solve real engineering problems.
-* Treat testing, documentation, automation, and version control as first-class engineering practices.
+- Build systems that solve real problems.
+- Prefer maintainable architecture over quick solutions.
+- Let technology choices follow engineering requirements.
+- Treat testing, documentation, and automation as core engineering practices.
+- Build platforms that can evolve as complexity grows.
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mugheerik&show_icons=true&theme=transparent"/>
+
+</p>
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in opportunities involving:
+Interested in opportunities involving:
 
-* Analytics Engineering
-* Backend Engineering
-* Data Engineering
-* Business Intelligence
-* Modern Data Platforms
-* Open Source Collaboration
+- Analytics Engineering
+- Backend Engineering
+- Data Engineering
+- Modern Data Platforms
+- Software Architecture
+- Intelligent Systems
 
-📍 **Pakistan**
+📍 Pakistan
 
-🌍 **Open to Remote, Hybrid, Freelance, and Full-time opportunities**
+🌍 Open to Remote, Hybrid, Freelance, and Full-time opportunities
 
-💼 **LinkedIn:**
+
+LinkedIn:
+
 https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/
 
 ---
 
 <div align="center">
 
-### ⭐ Building production-oriented software and modern data platforms—one release at a time.
+### ⭐ Building production-oriented software and intelligent data platforms — one release at a time.
 
 </div>
