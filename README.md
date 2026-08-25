@@ -12,9 +12,7 @@ Building production-oriented software that combines backend engineering, analyti
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Mugheerik/customer360-platform">
-<img src="https://img.shields.io/badge/Customer360-Flagship_Project-2563EB?style=for-the-badge"/>
-</a>
+
 
 </div>
 
@@ -115,7 +113,7 @@ Currently exploring:
 
 ---
 
-# ⭐ Flagship Project
+# ⭐Project
 
 ## Customer360 Platform
 
