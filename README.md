@@ -1,39 +1,36 @@
-<div align="center">
-
 # 👋 Hi, I'm Mugheer Islam Khattak
 
-### Software Engineer • Backend & Full-Stack Systems • Data Platforms • Intelligent Systems
+### Software Engineer | Backend & Data Systems
 
-Building production-oriented software with **Python, TypeScript, FastAPI, React, PostgreSQL, and modern engineering practices**.
+Building reliable software systems with a focus on **backend engineering, APIs, databases, automation, and data-driven applications**.
 
-<br>
-
-<a href="https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mugheer-site.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mugheerik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mugheerik)
 
 ---
 
 # 🚀 About Me
 
-I'm a **Software Engineer** focused on building reliable backend and full-stack systems with strong foundations in software architecture, databases, testing, and data engineering.
+I'm a **Software Engineer** focused primarily on building reliable backend and data-driven software systems.
 
-My current work sits at the intersection of:
+My work combines:
 
-* Backend Engineering
-* Full-Stack Development
-* Data Engineering
-* Software Architecture
-* Cloud & Distributed Systems
-* Intelligent Software Systems
+- Backend API development
+- Database design and SQL
+- Software architecture
+- Automated testing
+- CI/CD and containerization
+- Data transformation and analytics engineering
+- Full-stack application development
 
-I primarily work with **Python, TypeScript, FastAPI, React, PostgreSQL, SQL, Docker, and GitHub Actions**.
+I enjoy building systems that are **maintainable, reliable, and designed to evolve as requirements grow**.
 
-Currently, I'm building **Customer360**, a production-oriented Customer Data Platform designed to strengthen my practical experience in backend engineering, architecture, database systems, automated testing, CI/CD, and full-stack development.
+My primary engineering tools include:
 
-My long-term goal is to become an **Intelligent Systems Architect**, designing scalable platforms where software engineering, data, automation, and AI work together to solve complex business problems.
+**Python • TypeScript • FastAPI • PostgreSQL • SQL • Docker • React • GitHub Actions**
+
+My current focus is building stronger practical experience in **backend engineering and production-oriented software development**, while continuing to develop toward cloud, distributed, data, and intelligent systems.
 
 ---
 
@@ -41,222 +38,275 @@ My long-term goal is to become an **Intelligent Systems Architect**, designing s
 
 ## Backend & Software Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-REST APIs • SQLAlchemy • Pydantic • Authentication • Authorization • Service Layer • Repository Pattern
+**REST APIs • SQLAlchemy • Pydantic • Authentication • Authorization • Service Layer • Repository Pattern**
 
 ---
 
 ## Databases & Data Systems
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-Relational Data Modeling • Database Migrations • SQL Optimization • ETL/ELT • Data Modeling • Analytics Engineering
+**Relational Data Modeling • Database Design • SQL • ETL/ELT • Data Transformation • Analytics Engineering**
 
 ---
 
-## Software Architecture & Engineering Practices
+## Engineering Practices
 
-Clean Architecture • Modular Design • Repository Pattern • Service Layer • Dependency Injection
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Automated Testing • Code Quality • Documentation • Version Control • CI/CD
+**Clean Architecture • Modular Design • Automated Testing • Code Quality • Documentation • Version Control**
 
 ---
 
 ## DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Docker • GitHub Actions • CI/CD • Pytest • Ruff • Linux
+**Docker • CI/CD • GitHub Actions • Linux • Automation**
 
 ---
 
 ## Analytics & Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Power BI • DAX • Power Query • KPI Development • Business Intelligence
-
----
-
-# 🎯 Engineering Interests
-
-I'm particularly interested in developing expertise in:
-
-* Backend Architecture
-* Cloud-Native Engineering
-* Distributed Systems
-* Event-Driven Architecture
-* Data Platforms
-* System Design
-* AI-Enabled Software Systems
-* Intelligent Business Applications
-
----
-
-# 🔭 Currently Building
-
-## 🚀 Customer360 Platform
-
-A production-oriented Customer Data Platform built to demonstrate modern software engineering and backend development practices.
-
-### Current Technology
-
-* Python
-* FastAPI
-* PostgreSQL
-* SQLAlchemy
-* Alembic
-* Docker
-* Pytest
-* Ruff
-* GitHub Actions
-* React
-* TypeScript
-
-### Current Architecture
-
-* Modular Monolith
-* Clean Architecture
-* Repository Pattern
-* Service Layer
-* Dependency Injection
-* JWT Authentication
-* Role-Based Authorization
-* Versioned Database Migrations
-* Automated Testing
-* CI/CD
-
-### Current Engineering Focus
-
-* Maintainable backend architecture
-* Relational database design
-* API design
-* Automated quality gates
-* Production-oriented development
-* Full-stack integration
-
-### Future Direction
-
-The platform is being designed so it can evolve toward:
-
-* Data and analytics services
-* Workflow automation
-* Event-driven architecture
-* Cloud-native deployment
-* AI-enabled business capabilities
-
-**Repository:**
-➡️ https://github.com/Mugheerik/customer360-platform
+**Power BI • DAX • Power Query • KPI Development • Business Intelligence**
 
 ---
 
 # 📂 Selected Projects
 
-## 🏥 Healthcare Analytics Dashboard
+## 🚀 [Customer360 Platform](https://github.com/Mugheerik/customer360-platform)
 
-End-to-end analytics solution using:
+A production-oriented customer data platform designed to demonstrate practical backend engineering and full-stack software development.
+
+### Technology
+
+**Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Pytest • GitHub Actions • React • TypeScript**
+
+### Engineering Focus
+
+- Backend architecture
+- REST API development
+- Relational database design
+- Authentication and authorization
+- Service layer and repository patterns
+- Automated testing
+- Dockerized development
+- CI/CD
+- Full-stack integration
+
+🔗 **Repository:**  
+https://github.com/Mugheerik/customer360-platform
+
+---
+
+## 🤖 [Civic AI Data Platform](https://github.com/Mugheerik/civic-ai-data-platform)
+
+A data-focused software project exploring the combination of software engineering, data systems, and AI-enabled applications.
+
+### Engineering Focus
+
+- Data processing
+- Backend systems
+- Data modeling
+- Software architecture
+- AI-enabled application concepts
+- Data-driven workflows
+
+🔗 **Repository:**  
+https://github.com/Mugheerik/civic-ai-data-platform
+
+---
+
+## 🏥 [Healthcare Analytics Platform](https://github.com/Mugheerik/healthcare-analytics-platform)
+
+An end-to-end analytics platform focused on transforming data into meaningful insights and decision-support reporting.
+
+### Technology
 
 **Python • PostgreSQL • dbt • Power BI**
 
-Focused on:
+### Demonstrates
 
-* Data transformation
-* Analytical modeling
-* KPI development
-* Business intelligence reporting
+- Data transformation
+- Analytical modeling
+- SQL development
+- KPI development
+- Business intelligence reporting
+- Dashboard development
+
+🔗 **Repository:**  
+https://github.com/Mugheerik/healthcare-analytics-platform
 
 ---
 
-## 📈 Stock Market Analytics Pipeline
+## 📈 [Stock Market Analytics Pipeline](https://github.com/Mugheerik/stock-market-analytics-pipeline)
 
-Analytics engineering project using:
+An analytics engineering project focused on building a structured pipeline for extracting, transforming, modeling, and analyzing market data.
+
+### Technology
 
 **Python • SQL • PostgreSQL • dbt • Power BI**
 
-Focused on:
+### Demonstrates
 
-* Data extraction
-* Data transformation
-* PostgreSQL modeling
-* Reusable analytical models
-* Dashboard visualization
+- Data extraction
+- Data transformation
+- PostgreSQL modeling
+- Reusable analytical models
+- SQL development
+- Dashboard visualization
+
+🔗 **Repository:**  
+https://github.com/Mugheerik/stock-market-analytics-pipeline
 
 ---
 
-## 📊 SaaS Funnel & Revenue Analytics
+## 📊 [SaaS Funnel Analytics](https://github.com/Mugheerik/saas-funnel-analytics)
 
-Business analytics project using:
+A business analytics project focused on understanding customer behavior, conversion funnels, and revenue performance.
+
+### Technology
 
 **SQL • dbt • Power BI**
 
-Focused on:
+### Demonstrates
 
-* Customer lifecycle analysis
-* Funnel performance
-* Revenue analysis
-* Analytical modeling
-* Business reporting
+- Customer lifecycle analysis
+- Funnel analysis
+- Revenue analysis
+- Analytical modeling
+- KPI development
+- Business reporting
+
+🔗 **Repository:**  
+https://github.com/Mugheerik/saas-funnel-analytics
 
 ---
 
-## 📱 NewsBroadcast
+## 📱 [NewsBroadcast](https://github.com/Mugheerik/newsbroadcast)
 
-Cross-platform mobile application developed as a university final-year project.
+A cross-platform mobile application developed as a university final-year project.
+
+### Technology
 
 **React Native • Expo • Firebase**
 
-Features included:
+### Features
 
-* Authentication
-* Firebase cloud integration
-* Multimedia functionality
-* Cross-platform mobile development
+- Authentication
+- Cloud integration
+- Multimedia functionality
+- Cross-platform mobile development
+
+🔗 **Repository:**  
+https://github.com/Mugheerik/newsbroadcast
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Engineering Direction
 
-My current development focus follows a backend → cloud → distributed systems → intelligent systems path.
+## Primary Focus
 
-### Software Engineering
+### Backend-Focused Software Engineering
 
-* Advanced Python
-* TypeScript
-* Backend architecture
-* System design
+Building reliable APIs, backend services, database systems, and production-oriented software.
 
-### Cloud & Infrastructure
+---
 
-* AWS
-* Docker
-* CI/CD
-* Infrastructure as Code
+## Secondary Strength
 
-### Distributed Systems
+### Data, SQL & Automation
 
-* Message queues
-* Kafka
-* Redis
-* Event-driven architecture
-* Microservices
-* Observability
+Combining software engineering with strong capabilities in:
 
-### Intelligent Systems
+- SQL
+- Data transformation
+- Analytics engineering
+- Database systems
+- Automation
+- Business intelligence
 
-* Machine learning fundamentals
-* LLM applications
-* RAG
-* AI-enabled backend systems
-* AI system architecture
+---
+
+## Supporting Capability
+
+### Full-Stack Development
+
+Ability to build and integrate frontend applications when required.
+
+---
+
+# 🔭 Current Engineering Focus
+
+I'm currently developing deeper expertise in:
+
+### Backend Engineering
+
+- Advanced Python
+- Backend architecture
+- API design
+- Database systems
+- Authentication and authorization
+- Automated testing
+- System design
+
+### Cloud & Production Systems
+
+- Docker
+- CI/CD
+- Cloud fundamentals
+- Application deployment
+- Infrastructure concepts
+- Observability
+
+### Future Engineering Direction
+
+- Distributed systems
+- Event-driven architecture
+- Message queues
+- Redis
+- Kafka
+- Data platforms
+- AI-enabled applications
+
+---
+
+# 🧭 Career Path
+
+**Backend Engineering**
+
+⬇️
+
+**Cloud & Production Systems**
+
+⬇️
+
+**Distributed Systems**
+
+⬇️
+
+**AI & Intelligent Software Systems**
+
+⬇️
+
+**Intelligent Systems Architecture**
+
+My long-term goal is to contribute to the design of scalable systems where **software engineering, data, automation, and AI work together to solve complex business problems**.
 
 ---
 
@@ -264,56 +314,76 @@ My current development focus follows a backend → cloud → distributed systems
 
 > Build systems that solve real problems.
 
-> Prefer maintainable architecture over unnecessary complexity.
+> Prefer maintainability over unnecessary complexity.
 
 > Let engineering requirements drive technology choices.
 
-> Treat testing, documentation, automation, and observability as part of the system—not afterthoughts.
+> Treat testing, documentation, automation, and observability as part of the system.
 
 > Build software that can evolve as complexity grows.
 
-> Use AI as an engineering capability, not as a substitute for engineering fundamentals.
+---
+
+# 📚 Currently Learning
+
+### Backend & Architecture
+
+- Advanced Python
+- System design
+- Software architecture
+- Database optimization
+- API design
+
+### Cloud & Infrastructure
+
+- Cloud fundamentals
+- Docker
+- CI/CD
+- Deployment
+- Infrastructure concepts
+
+### Distributed & Intelligent Systems
+
+- Event-driven architecture
+- Distributed systems
+- Data platforms
+- LLM applications
+- AI-enabled backend systems
 
 ---
 
 # 📊 GitHub Activity
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mugheerik&show_icons=true&theme=transparent)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mugheerik&show_icons=true&theme=transparent"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugheerik&layout=compact&theme=transparent)
 
 ---
 
 # 🤝 Let's Connect
 
-I'm interested in opportunities involving:
+I'm currently interested in opportunities involving:
 
-* Software Engineering
-* Backend Engineering
-* Full-Stack Engineering
-* Data Engineering
-* Analytics Engineering
-* Cloud & Data Platforms
-* Intelligent Software Systems
+- Backend Engineering
+- Software Engineering
+- Backend-Focused Full-Stack Development
+- Data-Focused Software Engineering
+- Analytics Engineering
 
-📍 Pakistan
+📍 **Pakistan**
 
-🌍 Open to Remote, Hybrid, Freelance, and Full-time opportunities
-
-### LinkedIn
-
-https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/
-
-### Portfolio
-
-https://mugheer-site.vercel.app/
+🌍 Open to **Remote • Hybrid • Freelance • Full-time opportunities**
 
 ---
 
-<div align="center">
+### 🔗 Connect With Me
 
-### Building reliable software today — toward intelligent systems tomorrow.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mugheer_Islam_Khattak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugheer-islam-khattak-7a1ab831b/)
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mugheer-site.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mugheerik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mugheerik)
+
+---
+
+### 🚀 Building reliable software today — toward intelligent systems tomorrow.
